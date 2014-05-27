@@ -1,7 +1,7 @@
 timber-oop-demo-theme
 =====================
 
-This is a bare bone Timber starter theme for Wordpress that tries to show how to start writing a WP theme in a OOP manner. At the moment it's very rough and doesn't contain anything else than just the Timber framework, a Theme base class and some basic templates from the original Timber starter theme.
+This is a bare bone [Timber](http://jarednova.github.io/timber/) starter theme for Wordpress that tries to show how to start writing a WP theme in a OOP manner. At the moment it's very rough and doesn't contain anything else than just the Timber framework, a Theme base class and some basic templates from the original Timber starter theme.
 
 #How to install
 To do WP theme development I recommend that you use a virtual machine to run your dev environment. This can easily be achieved using [VirtualBox](https://www.virtualbox.org/wiki/Downloads), [Vagrant](http://www.vagrantup.com/downloads.html) and [PuPHPet](https://puphpet.com) completely free. Once you have your dev environment up and running. I recommend that you use symlinks to include your different theme projects in the `/wp-content/themes` folder so you easily can switch between your different themes. The symlink can easily be set up in the PuPHPet configuration UI `Deploy Target -> Sharing Folders with Local VM`.
