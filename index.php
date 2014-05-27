@@ -18,7 +18,7 @@
 	}
 	$context = Timber::get_context();
 	$context['posts'] = Timber::get_posts();
-	$context['foo'] = 'bar';
+	$context['foo'] = 'foo';
 	$templates = array('index.twig');
 	if (is_home()){
 		array_unshift($templates, 'home.twig');

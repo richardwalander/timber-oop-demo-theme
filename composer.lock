@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "c9493298542f3864c98f6d5436e3cc7e",
+    "hash": "42ef8fec0e164c586a50dc7ba5805949",
     "packages": [
         {
             "name": "asm89/twig-cache-extension",
@@ -201,12 +201,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/jarednova/timber.git",
-                "reference": "e4101112efe80755fb4dd68d019d91f91f798ff4"
+                "reference": "ebf36434e3453a6a45d62957b3b6d21079e8be60"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jarednova/timber/zipball/e4101112efe80755fb4dd68d019d91f91f798ff4",
-                "reference": "e4101112efe80755fb4dd68d019d91f91f798ff4",
+                "url": "https://api.github.com/repos/jarednova/timber/zipball/ebf36434e3453a6a45d62957b3b6d21079e8be60",
+                "reference": "ebf36434e3453a6a45d62957b3b6d21079e8be60",
                 "shasum": ""
             },
             "require": {
@@ -239,7 +239,7 @@
                 "timber",
                 "twig"
             ],
-            "time": "2014-05-23 15:15:59"
+            "time": "2014-05-27 13:09:31"
         },
         {
             "name": "symfony/yaml",

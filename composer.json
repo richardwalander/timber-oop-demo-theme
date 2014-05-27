@@ -10,5 +10,9 @@
             "email": "richard.walander@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": ["wp-content/plugins/timber/timber.php"],
+        "psr-0": {"TimberTheme\\": "src/"}
+    }
 }
