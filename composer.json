@@ -1,0 +1,14 @@
+{
+    "name": "ricwa230/timber-oop-demo-theme",
+    "description": "This is a OOP Timber Wordpress Starter Theme",
+    "require": {
+        "jarednova/timber": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Richard Walander",
+            "email": "richard.walander@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
